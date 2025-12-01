@@ -6,8 +6,6 @@ package Lesson1_ChristmasTree {
          * - Decorative parts
          */
 
-        attribute imgUrl = "file://./../images/myChristmasTree.jpg";
-
         part trunk {
             doc
             /* The main woody stem that supports the tree */
