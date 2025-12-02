@@ -1,4 +1,4 @@
-package Lesson1_ChristmasTree {
+package L01_ChristmasTree {
     part def SensmetryChristmasTree {
         doc
         /* A festive Christmas tree with various decorations and components
