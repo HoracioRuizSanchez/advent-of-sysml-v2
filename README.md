@@ -35,4 +35,4 @@ The SysML Syntax Explorer is a browser-based tool to visualize how Syside parses
 2. **Navigating Textual Models** ([YouTube](https://youtu.be/lttBk-OcY9s?si=LsAZgDR_9QSB47VT), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-2-navigating-textual-models/))
 3. **Definitions and usages** ([YouTube](https://youtu.be/1VyqaFm4hpQ?si=5QT6jiM2WDkrLXag), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-3-definitions-and-usages/))
 4. **Specializations** ([YouTube](https://youtu.be/2FWxUGlkrE0?si=WbHCYznUAr2tGSq1), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-4-specializations/))
-5. **Modifiers and Multiplicities**
+5. **Modifiers and Multiplicities** ([YouTube](https://youtu.be/86YY4sXrSaM?si=-qD8BC6fB7VI1Dbf), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-5-modifiers-and-multiplicities/))
