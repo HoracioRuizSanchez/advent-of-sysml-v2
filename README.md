@@ -39,7 +39,7 @@ Here is a complete list of lessons with links to YouTube videos and blog posts:
 8. **Packages and Names** ([YouTube](https://youtu.be/DChPckijZSQ?si=QivHmuEWyROPiw0w), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-8-packages-and-names/))
 9. **Sysand: Package Manager for SysML v2** ([YouTube](https://youtu.be/WuTqJraVx0w?si=O81vX-EKGb8WMeyZ), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-9-package-manager-for-sysml-v2/))
 10. **Comments and Annotations**  ([YouTube](https://youtu.be/mjgTf5SdL-4?si=ctPUOqOuL_wYMWL4), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-10-comments-and-annotations/))
-11. **Attributes and Quantities**
+11. **Attributes and Quantities**  ([YouTube](https://youtu.be/-WqUHL4E1iY?si=Apr7hYSwUH3Sy44Y), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-11-attributes-and-quantities/))
 
 ## Helper tools & tips
 
