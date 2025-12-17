@@ -45,6 +45,14 @@ Here is a complete list of lessons with links to YouTube videos and blog posts:
 14. **Week 2 Recap**  ([YouTube](https://youtu.be/zoHyjoZGF_c?si=iGca1kpmi-m_-Z8F), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-14-week-2-recap/))
 15. **Expression Evaluation with Automator** ([YouTube](https://youtu.be/n7HoPvZu1BI?si=tTzxFsW5Wr3smqVN), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-15-expression-evaluation-with-automator/))
 16. **Value Roll-ups and Advanced Expressions** ([YouTube](https://youtu.be/wZNqEyJHAE0?si=Z2XXYszaUC8kSfAY), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-16-value-rollups-and-advanced-calculations/))
+17. **Actions and Successions** ([YouTube](https://youtu.be/nsww9U5IBQA?si=HSzu3My4XpailmhX), [Blog post](https://sensmetry.com/advent-of-sysml-v2-lesson-17-actions-and-successions/))
+18.
+19.
+20.
+21.
+22.
+23.
+24.
 
 ## Helper tools & tips
 
